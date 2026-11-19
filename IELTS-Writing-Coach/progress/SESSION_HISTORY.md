@@ -48,3 +48,33 @@ This chronological log tracks every coaching session, concepts taught, mental mo
   - Challenge 1: *"Exercising regularly in public parks helps reduce stress and contributes to better cardiovascular health."* -> **100% PASSED**.
   - Challenge 2: *"Experienced employees remain valuable because they solve complex problems."* -> **100% PASSED**.
   - **Session 1 Summary**: Candidate made a monumental leap from an ungrounded 85-word baseline to mastering sentence boundaries, plural/gerund subject-verb agreement, twin prepositions, and the C-R-E-I Argument Engine. All state files synchronized. Ready for Session 2 (The Introduction Funnel).
+
+---
+
+## Session 2: The Introduction Funnel & Prompt Deconstruction (2026-11-19)
+- **Session Focus**: Prompt Deconstruction (**Mental Model 2: The Question Compass**) and the Band 8 2-Sentence Introduction Blueprint (**Mental Model 3: The Introduction Funnel**).
+- **Step 1: Active Recall (Spaced Repetition)**:
+  - Challenge 1 Sentence A: *"Acquiring specialized digital skills provides professionals with competitive advantages and contributes to long-term career stability"* -> **100% PASSED**. Flawless execution of Gerund S-V agreement (`Acquiring... provides`) and dependent preposition (`contributes to`).
+  - Challenge 1 Sentence B Diagnostic: Candidate initially perceived *"People remains... changing jobs are..."* as correct. Diagnostic Hinglish bridge applied:
+    1. Plural Subject Agreement: *People remain* (Log rehte hain, not rehta hai).
+    2. Gerund Subject Agreement: *Changing jobs is* (Subject is *changing* = singular action, not plural *jobs*).
+    3. Rules consolidated and confirmed.
+  - Challenge 2 (C-R-E-I Engine): Candidate correctly defined all 4 components (Claim, Reason, Explain, Impact) and differentiated Mechanism vs Outcome.
+- **Mental Models Introduced**:
+  - **Model 2: The Question Compass**: Broad Topic + Micro-Topic (The Debate) + Instruction Command + Stance Blueprint.
+  - **Model 3: The Introduction Funnel**: 2 sentences (40–55 words) in under 4 minutes.
+    - Sentence 1: Contextual Paraphrase using concessive structure (*While / Although*).
+    - Sentence 2: Direct, unambiguous Thesis Statement declaring stance and previewing key arguments.
+- **Step 5: Guided Practice Drill (University Academic Knowledge vs Career Preparation)**:
+  - Candidate boldly drafted a complete 2-sentence introduction in a single turn.
+  - Evaluated against criteria:
+    - *Strengths*: Decisive stance established immediately; ambitious academic vocabulary deployed (`crucial`, `imperative`, `foster`).
+    - *Diagnostic Interventions*:
+      1. Double Conjunction Trap: Identified and eliminated *although... however* (English never pairs both in one sentence).
+      2. Naked Countable Nouns: Corrected *student* -> *students* and integrated referential pronoun *them*.
+      3. Preposition Triad: Upgraded *result better* -> *result in better*.
+      4. Syntactic Structure: Connected clauses into a high-level concessive complex structure.
+  - Candidate completed the Polish Drill: Successfully eliminated the double conjunction, fixed noun plurals, and locked *result in*.
+- **Artifacts Created / Updated**:
+  - `progress/VOCABULARY_TRACKER.md` created to track lexical acquisition, active exposure, candidate usage, and grip scores.
+- **Current Pacing / Step**: Step 7 Independent Application Drill assigned (Remote Work vs Traditional Office Environment prompt).

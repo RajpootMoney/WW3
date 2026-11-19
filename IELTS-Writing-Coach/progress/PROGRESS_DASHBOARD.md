@@ -19,8 +19,8 @@
 ## 2. Activity Metrics
 
 - **Essays Evaluated**: `1`
-- **Practice Sessions Completed**: `1` (Full Diagnostic, Foundations & Cognitive Models)
-- **Current Phase**: `Phase 1: Writing Foundations (Mechanics & Boundaries Complete)`
+- **Practice Sessions Completed**: `1` (Session 2 In Progress: The Introduction Funnel & Prompt Deconstruction)
+- **Current Phase**: `Phase 1: Writing Foundations (Introduction Funnel & Syntactic Subordination)`
 - **IELTS Module**: **IELTS General Training (GT)**
 - **Target Exam Date**: **2–3 months** (Pacing: **1–2 hours/day**)
 
@@ -29,15 +29,17 @@
 ## 3. Diagnostic Observations
 
 ### Priority Recurring Weaknesses (from Evidence)
-1. **Sentence Boundary Breaches**: Fragments starting with *because*; run-on independent clauses with no punctuation.
-2. **Subject-Verb Agreement**: *People remains* (plural subject with singular verb); *benefits which includes*.
-3. **Severe Under-Length (<250 words)**: Abandoning essay mid-thought without covering both sides or concluding.
-4. **Spelling & Lexical Slips**: *diffrent*, *banefits*, *found them in cohort*.
+1. **Double Conjunctions**: Using *although* and *however* simultaneously (eliminated in Session 2 drill).
+2. **Naked Countable Nouns**: Omitting plural *s* or articles on generalized countable nouns (*student* vs *students*).
+3. **Spelling Slips**: *diffrent*, *banefits*, *acadamic* (focus on standard academic vowels).
+4. **Punctuation Boundaries**: Omitting comma after introductory *While/Although* clauses.
 
 ### Recently Improved Areas
-- **C → R → E → I Argument Generation**: Candidate can independently generate 4-sentence coherent causal chains.
-- **Gerund Subject-Verb Agreement**: Mastered (*Staying... has* executed flawlessly).
-- **Sentence Boundary Control**: Eliminated sentence fragments (*. because*, *. which*) and run-on sentences.
+- **The Band 8 Introduction Funnel**: Candidate successfully structured a 2-sentence introduction with a concessive paraphrase and decisive thesis.
+- **The Causation Preposition Triad**: Mastered *leads to*, *contributes to*, and *results in*.
+- **Concessive Clause Subordination**: Mastered *Although [point], [stance]* without double conjunctions.
+- **Gerund & Plural Subject-Verb Agreement**: Solidified (*Acquiring... provides*, *People remain*).
+- **Active Lexical Expansion**: 12 active academic words and collocations cataloged in `progress/VOCABULARY_TRACKER.md`.
 
 ### Upcoming Revision Topics
 - Articles (*the*, *a/an*) with defined institutions (*the same company*, *the organization*).

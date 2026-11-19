@@ -8,8 +8,8 @@
 
 | Skill / Competency | Target Band | Current Status | Supporting Evidence / Notes |
 | :--- | :---: | :---: | :--- |
-| **Question Deconstruction (Question Compass)** | 8.0 | `Not Started` | Initial assessment pending |
-| **Thesis Formulation & Sustained Position** | 8.0 | `Not Started` | - |
+| **Question Deconstruction (Question Compass)** | 8.0 | `Demonstrated` | Deconstructed university education prompt into academic debate in Session 2 |
+| **Thesis Formulation & Sustained Position** | 8.0 | `Demonstrated` | Clear, decisive stance formulated in 2-sentence Introduction Funnel |
 | **C-R-E-I Argument Depth (Claim -> Reason -> Mech -> Impact)** | 8.0 | `Demonstrated` | Independently constructed a complete 4-sentence C-R-E-I block on job loyalty |
 | **Nuanced Concession & Counter-Balancing** | 8.0 | `Not Started` | - |
 | **Task 1 Overview Identification & Selection** | 8.0 | `Not Started` | - |
@@ -47,9 +47,9 @@
 | Skill / Competency | Target Band | Current Status | Supporting Evidence / Notes |
 | :--- | :---: | :---: | :--- |
 | **Subject-Verb Agreement Precision** | 8.0 | `Mastered (Consistent in Drills)` | Consistently matches plural subjects (*people remain*, *employees remain*) and Gerund singular verbs (*Working provides*, *Studying enhances*, *Exercising helps*) |
-| **Dependent Preposition Pairing (*leads to*, *contributes to*)** | 8.0 | `Demonstrated` | Successfully applied twin preposition *to* with *leads* and *contributes* |
+| **Dependent Preposition Pairing (*leads to*, *contributes to*, *results in*)** | 8.0 | `Mastered (Consistent in Drills)` | Successfully verified Causation Triad (*leads to, contributes to, results in*) |
 | **Article Accuracy (*A*, *An*, *The*, Zero Article)** | 8.0 | `In Progress` | Demonstrated in review of defined institutions (*the same company*) |
-| **Subordinate Concession Clauses (*Although vs Despite*)** | 8.0 | `Not Started` | - |
+| **Subordinate Concession Clauses (*Although vs Despite*)** | 8.0 | `Demonstrated` | Mastered *Although [concession], [main thesis]* without double-connector fallacy |
 | **Hypothetical & Inverted Conditionals** | 8.0 | `Not Started` | - |
 | **Participle Clauses (-ing / -ed modifiers)** | 8.0 | `Not Started` | - |
 | **Cleft Sentences & Objective Academic Passives** | 8.0 | `Not Started` | - |
