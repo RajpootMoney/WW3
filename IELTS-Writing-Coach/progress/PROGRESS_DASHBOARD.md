@@ -19,8 +19,8 @@
 ## 2. Activity Metrics
 
 - **Essays Evaluated**: `1`
-- **Practice Sessions Completed**: `1`
-- **Current Phase**: `Phase 1: Writing Foundations (Mechanics, Boundaries & Grammar)`
+- **Practice Sessions Completed**: `1` (Full Diagnostic, Foundations & Cognitive Models)
+- **Current Phase**: `Phase 1: Writing Foundations (Mechanics & Boundaries Complete)`
 - **IELTS Module**: **IELTS General Training (GT)**
 - **Target Exam Date**: **2–3 months** (Pacing: **1–2 hours/day**)
 

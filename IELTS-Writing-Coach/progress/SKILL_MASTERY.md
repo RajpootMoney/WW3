@@ -46,12 +46,12 @@
 
 | Skill / Competency | Target Band | Current Status | Supporting Evidence / Notes |
 | :--- | :---: | :---: | :--- |
-| **Subject-Verb Agreement Precision** | 8.0 | `In Progress` | Demonstrated plural S-V and Gerund singular verb (*Working... provides*) |
+| **Subject-Verb Agreement Precision** | 8.0 | `Mastered (Consistent in Drills)` | Consistently matches plural subjects (*people remain*, *employees remain*) and Gerund singular verbs (*Working provides*, *Studying enhances*, *Exercising helps*) |
 | **Dependent Preposition Pairing (*leads to*, *contributes to*)** | 8.0 | `Demonstrated` | Successfully applied twin preposition *to* with *leads* and *contributes* |
-| **Article Accuracy (*A*, *An*, *The*, Zero Article)** | 8.0 | `Not Started` | - |
+| **Article Accuracy (*A*, *An*, *The*, Zero Article)** | 8.0 | `In Progress` | Demonstrated in review of defined institutions (*the same company*) |
 | **Subordinate Concession Clauses (*Although vs Despite*)** | 8.0 | `Not Started` | - |
 | **Hypothetical & Inverted Conditionals** | 8.0 | `Not Started` | - |
 | **Participle Clauses (-ing / -ed modifiers)** | 8.0 | `Not Started` | - |
 | **Cleft Sentences & Objective Academic Passives** | 8.0 | `Not Started` | - |
-| **Comma Splice & Sentence Boundary Mastery** | 8.0 | `In Progress` | Successfully eliminated run-ons using relative clause (*which*) |
+| **Comma Splice & Sentence Boundary Mastery** | 8.0 | `Mastered (Targeted Drills)` | Eliminated run-ons and sentence fragments (*because*, *which*); proper boundary control established |
 | **S-V-A-P-T Diagnostic Proofreading Sweep** | 8.0 | `Not Started` | - |

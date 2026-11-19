@@ -43,4 +43,8 @@ This chronological log tracks every coaching session, concepts taught, mental mo
 - **Micro-Drills on Independence & Reflexes**:
   - Drill 2 (Twin Prepositions): 100% correct (*leads to*, *contributes to*).
   - Drill 3 ("Who does what"): Successfully converted Hindi thought into a clean English sentence (*Working in a team will enhance communication skills*).
-  - Drill 1 Diagnostic: Candidate inserted infinitive *to enhance* creating a fragment; active hint deployed to select between *enhance* and *enhances*.
+  - Drill 1 Diagnostic & Resolution: Candidate initially tested infinitive, then successfully identified the singular verb form (*enhances*) matching the Gerund subject (*Studying multiple languages enhances cognitive development*). Gerund S-V agreement rule consolidated.
+- **Session 1 Final Boss Consolidation**:
+  - Challenge 1: *"Exercising regularly in public parks helps reduce stress and contributes to better cardiovascular health."* -> **100% PASSED**.
+  - Challenge 2: *"Experienced employees remain valuable because they solve complex problems."* -> **100% PASSED**.
+  - **Session 1 Summary**: Candidate made a monumental leap from an ungrounded 85-word baseline to mastering sentence boundaries, plural/gerund subject-verb agreement, twin prepositions, and the C-R-E-I Argument Engine. All state files synchronized. Ready for Session 2 (The Introduction Funnel).

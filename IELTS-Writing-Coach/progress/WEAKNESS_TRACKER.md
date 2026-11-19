@@ -7,9 +7,9 @@
 | # | Error / Weakness Description | Occurrences | Severity | Status | Governing Rule / Mental Hook |
 | :- | :--- | :---: | :---: | :---: | :--- |
 | **1** | **Severe Under-Length (<250 words)** | 1 | `Critical` | In Progress | 250-word minimum threshold; 4-paragraph blueprint |
-| **2** | **Sentence Fragment (*. because...*, *. which...*)** | 2 | `High` | Resolved | Subordinate clauses cannot stand alone as independent sentences |
-| **3** | **Run-on Sentences / Missing Punctuation** | 1 | `High` | Improving | Two independent clauses need period, comma+FANBOYS, or semicolon |
-| **4** | **Subject-Verb Agreement (*people remains*, *benefits includes*)** | 2 | `High` | Improving | Plural subject requires plural verb |
+| **2** | **Sentence Fragment (*. because...*, *. which...*)** | 2 | `High` | Mastered | Conjunctions properly attached; Magnet Test consolidated |
+| **3** | **Run-on Sentences / Missing Punctuation** | 1 | `High` | Mastered | Independent clauses properly punctuated with coordinators/relatives |
+| **4** | **Subject-Verb Agreement (*people remains*, *benefits includes*)** | 3 | `High` | Mastered | Consistently differentiates singular/plural verbs and Gerund subjects |
 | **5** | **Spelling Slips (*diffrent*, *banefits*, *oppotuanities*, *skils*)** | 4 | `Medium` | In Progress | Double check double consonants (*sk-i-l-l-s*) |
 | **6** | **Distorted / Informal Idioms (*found in cohort*, *grab opportunities*)** | 2 | `Medium` | Improving | Replaced *grab* with academic verb *secure*; upgraded collocations |
 | **7** | **Gerund Subject-Verb Trap (*Working in companies provide...*)** | 1 | `Medium` | Mastered | Independently executed *Staying in company has...* without error |
