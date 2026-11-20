@@ -22,6 +22,7 @@
 | Skill / Competency | Target Band | Current Status | Supporting Evidence / Notes |
 | :--- | :---: | :---: | :--- |
 | **Topic Sentence Clarity & Paragraph Unity** | 8.0 | `Demonstrated` | Successfully opened paragraph with dedicated topic sentence |
+| **The Conclusion Anchor (Synthesis + Horizon Framework)** | 8.0 | `Demonstrated` | Successfully structured a 2-sentence conclusion with concessive synthesis and horizon impact |
 | **Referential Cohesion (Demonstratives & Substitution)** | 8.0 | `Demonstrated` | Applied *This leads to...* referential link smoothly |
 | **Avoiding Mechanical Connectors (*Moreover/Furthermore*)** | 8.0 | `Demonstrated` | Built cohesive chain without relying on mechanical adverbs |
 | **Internal Paragraph Progression & Flow** | 8.0 | `Not Started` | - |

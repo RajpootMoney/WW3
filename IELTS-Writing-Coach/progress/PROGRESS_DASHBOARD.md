@@ -8,19 +8,19 @@
 
 | Metric | Target | Baseline | Current Estimated Band | Status |
 | :--- | :---: | :---: | :---: | :---: |
-| **Overall Writing Band** | **8.0** | **4.0** | **4.0** | ⚠️ Phase 1 Foundations Needed |
-| **Task Response (TR)** | **8.0** | **4.0** | **4.0** | ⚠️ Severely under-length (<100 words) |
-| **Coherence & Cohesion (CC)**| **8.0** | **4.0** | **4.0** | ⚠️ Run-ons & sentence fragments |
-| **Lexical Resource (LR)** | **8.0** | **4.5** | **4.5** | ⚠️ Spelling slips & basic phrasing |
-| **Grammatical Range & Accuracy (GRA)** | **8.0** | **4.0** | **4.0** | ⚠️ S-V agreement & punctuation faults |
+| **Overall Writing Band** | **8.0** | **4.0** | **5.5** | 🚀 +1.5 Band Leap Across Board |
+| **Task Response (TR)** | **8.0** | **4.0** | **5.5** | 📈 Full structure achieved (194 words) |
+| **Coherence & Cohesion (CC)**| **8.0** | **4.0** | **5.5** | 📈 4-paragraph blueprint active |
+| **Lexical Resource (LR)** | **8.0** | **4.5** | **6.0** | 🌟 Advanced vocabulary demonstrated |
+| **Grammatical Range & Accuracy (GRA)** | **8.0** | **4.0** | **5.0** | ⚠️ Double conjunctions & S-V tuning |
 
 ---
 
 ## 2. Activity Metrics
 
-- **Essays Evaluated**: `1`
-- **Practice Sessions Completed**: `1` (Session 2 In Progress: The Introduction Funnel & Prompt Deconstruction)
-- **Current Phase**: `Phase 1: Writing Foundations (Introduction Funnel & Syntactic Subordination)`
+- **Essays Evaluated**: `2`
+- **Practice Sessions Completed**: `3` (Session 3 Complete: Full 4-Paragraph Essay Assembly)
+- **Current Phase**: `Phase 1: Writing Foundations (Expanding Body Paragraph Depth to 250+ Words)`
 - **IELTS Module**: **IELTS General Training (GT)**
 - **Target Exam Date**: **2–3 months** (Pacing: **1–2 hours/day**)
 

@@ -6,19 +6,22 @@
 
 | # | Error / Weakness Description | Occurrences | Severity | Status | Governing Rule / Mental Hook |
 | :- | :--- | :---: | :---: | :---: | :--- |
-| **1** | **Severe Under-Length (<250 words)** | 1 | `Critical` | In Progress | 250-word minimum threshold; 4-paragraph blueprint |
+| **1** | **Severe Under-Length (<250 words)** | 2 | `High` | Improving | Reached 194 words; need +55 words in body mechanisms to reach 250w |
 | **2** | **Sentence Fragment (*. because...*, *. which...*)** | 2 | `High` | Mastered | Conjunctions properly attached; Magnet Test consolidated |
 | **3** | **Run-on Sentences / Missing Punctuation** | 1 | `High` | Mastered | Independent clauses properly punctuated with coordinators/relatives |
-| **4** | **Subject-Verb Agreement (*people remains*, *benefits includes*)** | 3 | `High` | Mastered | Consistently differentiates singular/plural verbs and Gerund subjects |
-| **5** | **Spelling Slips (*diffrent*, *banefits*, *acadamic*, *skils*)** | 5 | `Medium` | In Progress | Double check double consonants and vowels (*a-c-a-d-e-m-i-c*) |
+| **4** | **Subject-Verb Agreement (*employees who works*)** | 4 | `Medium` | Improving | Match plural subjects (*employees who work*) consistently in rapid drafting |
+| **5** | **Spelling Slips (*wich*, *conveniece*, *compraritively*)** | 8 | `Medium` | In Progress | Proofreading scan for high-frequency words (*which*, *convenience*, *comparatively*) |
 | **6** | **Distorted / Informal Idioms (*found in cohort*, *grab opportunities*)** | 2 | `Medium` | Improving | Replaced *grab* with academic verb *secure*; upgraded collocations |
 | **7** | **Gerund Subject-Verb Trap (*Working in companies provide...*)** | 1 | `Medium` | Mastered | Independently executed *Acquiring skills provides...* without error |
-| **8** | **C-R-E-I Topic Drift (Shifting claim focus in explanation)** | 1 | `Medium` | Improving | Successfully maintained topic unity on loyalty/stability throughout |
-| **9** | **Missing Articles (*the same*, *a deep understanding*)** | 1 | `Medium` | In Progress | Omitting definite/indefinite articles before defined nouns |
-| **10** | **Dependent Preposition (*leads to*, *contributes to*, *results in*)** | 1 | `Low` | Mastered in Drills | Successfully integrated the Causation Triad (*leads to, contributes to, results in*) |
-| **11** | **Double Conjunction (*although... however*)** | 1 | `Medium` | Mastered in Drill | Never combine *although* with *however* or *but* in the same sentence |
-| **12** | **Naked Countable Singular Nouns (*for student* -> *students*)** | 1 | `Medium` | Improving | General statements require plural form (*students*) or an article (*a student*) |
-| **13** | **Introductory Subordinate Comma (*While [clause], [main clause]*)** | 1 | `Low` | In Progress | Subordinate clauses opening a sentence require a comma boundary |
+| **8** | **C-R-E-I Topic Drift (Shifting claim focus in explanation)** | 1 | `Medium` | Mastered | Both body paragraphs stayed strictly anchored to their respective claims |
+| **9** | **Missing Articles (*in traditional office*, *in long-term*)** | 2 | `Medium` | In Progress | Use *in a traditional office*, *in the long term* |
+| **10** | **Dependent Preposition (*leads to*, *contributes to*, *results in*)** | 1 | `Low` | Mastered in Drills | Successfully integrated the Causation Triad (*leads to, contributes to, results in*) with 100% active recall accuracy |
+| **11** | **Double Conjunction (*while... however*, *while... but*)** | 3 | `High` | In Progress | Reappeared in Essay 2 (Intro and Conclusion). Iron rule: *While* alone carries the contrast! |
+| **12** | **Naked Countable Singular Nouns (*for student* -> *students*)** | 1 | `Medium` | Improving | Successfully applied plural *students* in Session 3 recall |
+| **13** | **Introductory Subordinate Comma (*While [clause], [main clause]*)** | 1 | `Low` | Improving | Subordinate clauses properly bounded with comma |
+| **14** | **Gerund with Plural Object Attractor (*Equipping students... fosters*)** | 1 | `Medium` | In Progress | Intervening plural nouns (*students*, *competencies*) distract from Gerund head subject |
+| **15** | **Pronoun-Verb Discord (*it foster* -> *they foster* / *it fosters*)** | 1 | `Medium` | In Progress | Singular pronoun *it* requires *fosters*; plural referent requires *they foster* |
+| **16** | **Passive Voice with Modal Verbs (*can rewarded* -> *can be rewarded*)** | 1 | `Medium` | In Progress | Modal + be + Past Participle (*can be achieved, can be rewarded*) |
 
 ---
 
