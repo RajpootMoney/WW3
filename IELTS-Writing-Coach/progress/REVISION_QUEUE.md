@@ -2,7 +2,7 @@
 
 *Manages active recall schedules to convert short-term grammatical and lexical learning into permanent, reflexive exam instincts.*
 
----
+--- 
 
 ## Active Spaced Repetition Schedules
 
